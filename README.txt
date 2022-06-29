@@ -1,7 +1,7 @@
 # YouTubeShortsTool
 A user-friendly tool allowing you to save time and grow your channel simultaneously. 
 
-YT Tool Guide
+YouTube Tool Guide
 Upon receiving the link or zip file follow these steps to start using the tool and grow your youtube channel!
 1. Extract ZIP
 2. Launch YouTube Shorts Tool EXE/APP
